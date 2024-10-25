@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/culture_linr/static/css/main.4ebb0cac.css",
+    "main.js": "/culture_linr/static/js/main.1e1f5ff2.js",
+    "static/js/453.d7a42839.chunk.js": "/culture_linr/static/js/453.d7a42839.chunk.js",
+    "index.html": "/culture_linr/index.html",
+    "main.4ebb0cac.css.map": "/culture_linr/static/css/main.4ebb0cac.css.map",
+    "main.1e1f5ff2.js.map": "/culture_linr/static/js/main.1e1f5ff2.js.map",
+    "453.d7a42839.chunk.js.map": "/culture_linr/static/js/453.d7a42839.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ebb0cac.css",
+    "static/js/main.1e1f5ff2.js"
+  ]
+}
